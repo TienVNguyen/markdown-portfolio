@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Welcome to Tien V. Nguyen Portfolio.
+## Nice to meet you all.
+###### Let's have some fun together.
